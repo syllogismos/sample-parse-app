@@ -1,0 +1,2 @@
+var PARSE_APPLICATION_ID = "your parse application id";
+var PARSE_JAVASCRIPT_KEY = "your parse javascript key";
